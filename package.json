@@ -1,0 +1,20 @@
+{
+  "name": "static-to-html-plugin",
+  "version": "1.0.1",
+  "description": "将特定的css,js文件内容打包进目标html文件将特定的css,js文件内容打包进目标html文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hezhongjie/static-to-html-plugin.git"
+  },
+  "author": "hezhongjie132@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hezhongjie/static-to-html-plugin/issues"
+  },
+  "homepage": "https://github.com/hezhongjie/static-to-html#readme",
+  "keywords": ["首屏渲染","渲染加速"]
+}
