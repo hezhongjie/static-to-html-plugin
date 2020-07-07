@@ -1,6 +1,6 @@
 {
   "name": "static-to-html-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "将特定的css,js文件内容打包进目标html文件将特定的css,js文件内容打包进目标html文件",
   "main": "index.js",
   "scripts": {
